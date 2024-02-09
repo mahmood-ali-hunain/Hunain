@@ -7,7 +7,7 @@ I've accomplished my studies in C,C++ and I'm currently learning Core Java to ad
 
 - 👯 I’m looking to collaborate on **Projects**
 
-- 💬 Ask me about **C , Core java**
+- 💬 Ask me about **C C++,Core java, Dart, OOP, App Development**
 
 - 📫 How to reach me **mahunainghouri@gmail.com**
 
