@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hunain</h1>
 <h3 align="center">An IT student with a profound interest in programming </h3>
 
-I've accomplished my studies in C,C++ and I'm currently learning Core Java to advance my skills. I'm always keen to take on new challenges and work on innovative projects. I'm constantly seeking new ways to enhance my coding abilities and expand my knowledge. I'm excited to see what the future holds for me in programming!"
+I've accomplished my studies in C,C++,Java and Dart and I'm currently learning DSA and App Development to advance my skills. I'm always keen to take on new challenges and work on innovative projects. I'm constantly seeking new ways to enhance my coding abilities and expand my knowledge. I'm excited to see what the future holds for me in programming!"
 
 - 🌱 I’m currently learning **DSA & App Development**
 
@@ -14,7 +14,7 @@ I've accomplished my studies in C,C++ and I'm currently learning Core Java to ad
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="https://fb.com/hunain_ghouri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hunain_ghouri" height="30" width="40" /></a> -->
-<a href="https://www.linkedin.com/in/mahmood-ali-hunain-b61b062a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Linkedin.svg" alt="LinkedIn Profile" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mahmood-ali-hunain-b61b062a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/LinkedIn.com" alt="LinkedIn Profile" height="30" width="40" /></a>
 <!-- <a href="https://instagram.com/hunayn_ghouri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hunayn_ghouri" height="30" width="40" /></a>
 </p> -->
 
