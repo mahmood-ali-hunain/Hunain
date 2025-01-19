@@ -7,7 +7,7 @@ I've accomplished my studies in C,C++,Java and Dart and I'm currently learning D
 
 - 👯 I’m looking to collaborate on **Projects**
 
-- 💬 Ask me about **C C++,Core java, Dart, OOP, App Development**
+- 💬 Ask me about **C C++,Core java, Dart, OOP, Flutter**
 
 - 📫 How to reach me **mahunainghouri@gmail.com**
 
